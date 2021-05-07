@@ -54,12 +54,12 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=strony00&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=emirhanincodes&theme=radical" >
 </details>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strony00&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanincodes&layout=compact" >
 </details>
 
 [instagram]: https://www.instagram.com/emirhanincodes/
