@@ -29,7 +29,7 @@
 
 <br />
 
-## My relased project
+## My shared project
 
 <!-- YOUTUBE:START -->
 - [Tech & Software Forum](https://codercity.net)
