@@ -48,10 +48,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=emirhanincodes&theme=radical" >
 
 
-<details>
+
 <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanincodes&layout=compact" >
-</details>
+
 
 [instagram]: https://www.instagram.com/emirhanincodes/
 [discord]: https://discord.gg/FBfJhGXp
