@@ -5,7 +5,7 @@
 
 ## I am trying to be Full Stack Web & Mobil Developer.
 
-<font color="pink">Coffee :coffee: is everything of `< code />` </font>
+<font color="pink">:coffee: Coffee is everything of `<coding/>` </font>
 
 ### Reach out to me
 
