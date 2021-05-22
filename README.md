@@ -17,7 +17,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/emirhanincodes/)
 
 <br />
-<br />
+
 
 ### Languages and Tools:
 
@@ -38,16 +38,13 @@
 
 
 <br/>
-<hr>
-
-
 
 ## My shared project
 
 
 - [Tech & Software Forum](https://codercity.net)
 - [Add...]
-//www.youtube.com/watch?v=O9LuDNuKhRo) -->
+
 
 
 
@@ -66,6 +63,6 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhanincodes&hide_border=true" />
 </details>
 
