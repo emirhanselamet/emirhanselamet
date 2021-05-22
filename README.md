@@ -7,6 +7,8 @@
 
 <font color="pink">:coffee: Coffee is everything of `<coding/>` </font>
 
+![](https://komarev.com/ghpvc/?username=emirhanincodes&color=green)
+
 ### Reach out to me
 
 [<img color="red"  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
