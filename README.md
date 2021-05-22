@@ -35,7 +35,8 @@
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 
-<br />
+<br/>
+<hr>
 
 ## My shared project
 
