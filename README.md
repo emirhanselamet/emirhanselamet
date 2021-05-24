@@ -42,7 +42,7 @@
 
 
 - [Tech & Software Forum](https://codercity.net)
-- [Add...]
+- [Eklenecek...]
 
 
 
