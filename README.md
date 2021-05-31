@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Emirhan. I am 15 years old developer and maker. 🛠 
 
-## I am trying to be Full Stack Web & Mobil Developer. 👨🏻‍💻
+## I am trying to be Full Stack Web & Mobil Developer 👨🏻‍💻
 
 <font color="blue">:coffee: Coffee is everything of `<coding/>` </font>
 
