@@ -1,7 +1,7 @@
 # emirhanincodes
 <img  src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" style="border-radius:25px;" align="right" width="400" height="250">
 
-### Hi there, I'm Emirhan. I am 16 years old developer and maker. 🛠 
+### Hi there, I'm Emirhan. Developer and Drone Maker. 🛠 
 
 ## I am trying to be Full Stack Mobil Developer 👨🏻‍💻
 
