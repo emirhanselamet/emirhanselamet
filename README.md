@@ -5,9 +5,9 @@
 ## I am trying to be Full Stack Mobil Developer 👨🏻‍💻
 
 <font color="blue">:coffee: Coffee is everything of `<coding/>` </font>
-
-![](https://komarev.com/ghpvc/?username=emirhanincodes&color=green)
 <img align='right' alt ='GIF' width = '450px' src="https://user-images.githubusercontent.com/78612977/182815848-8c11d53e-2a1a-49ed-9003-2bb12bb9e5b4.gif">
+![](https://komarev.com/ghpvc/?username=emirhanincodes&color=green)
+
 
 <br />
 
