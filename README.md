@@ -6,7 +6,7 @@
 
 <font color="blue">:coffee: Coffee is everything of `<coding/>` </font>
 <img align='right' alt ='GIF' width = '450px' src="https://user-images.githubusercontent.com/78612977/182815848-8c11d53e-2a1a-49ed-9003-2bb12bb9e5b4.gif">
-![](https://komarev.com/ghpvc/?username=emirhanincodes&color=green)
+![](https://komarev.com/ghpvc/?username=emirhanselamet&color=green)
 
 
 <br />
@@ -44,17 +44,17 @@
 
 
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=emirhanincodes&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=emirhanselamet&theme=radical" >
 
 
 
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanincodes&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanselamet&layout=compact" >
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhanincodes&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhanselamet&hide_border=true" />
 </details>
 
