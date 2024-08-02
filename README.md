@@ -1,8 +1,7 @@
-# emirhanincodes
 
-### Hi there, I'm Emirhan. Developer and Drone Maker. 🛠 
+### Hi there, I'm Emirhan. 
 
-## I am trying to be Full Stack Mobil Developer 👨🏻‍💻
+## I am a Full Stack Mobil Developer 👨🏻‍💻
 
 <font color="blue">:coffee: Coffee is everything of `<coding/>` </font>
 <img align='right' alt ='GIF' width = '450px' src="https://user-images.githubusercontent.com/78612977/182815848-8c11d53e-2a1a-49ed-9003-2bb12bb9e5b4.gif">
@@ -27,16 +26,6 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="arduino"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-
-
-<br/>
-
-## My shared project
-
-
-- [Tech & Software Forum](https://codercity.net)
-- [Eklenecek...]
-
 
 
 
